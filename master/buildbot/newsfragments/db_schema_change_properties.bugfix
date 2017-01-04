@@ -1,0 +1,1 @@
+Change properties 'value' max upped from 1024 to 14336 chars. Requires upgrade master. (:bug:`3197`)
