@@ -1,0 +1,1 @@
+Alters change properties from String to Text. Requires upgrade master. (:bug:`3197`)
