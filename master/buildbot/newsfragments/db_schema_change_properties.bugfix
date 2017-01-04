@@ -1,0 +1,1 @@
+Change properties value changed to type text and can be at least (tested for) 4096 bytes. This was previously max 1024 bytes. Requires upgrade master. (:bug:`3197`)
